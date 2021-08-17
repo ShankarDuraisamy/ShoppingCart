@@ -1,0 +1,9 @@
+C:\Users\sduraisa\Documents\Personal\final\PromotionEngine\PromotionEngine\obj\Debug\netstandard2.0\PromotionEngine.csprojAssemblyReference.cache
+C:\Users\sduraisa\Documents\Personal\final\PromotionEngine\PromotionEngine\obj\Debug\netstandard2.0\PromotionEngine.csproj.CoreCompileInputs.cache
+C:\Users\sduraisa\Documents\Personal\final\PromotionEngine\PromotionEngine\obj\Debug\netstandard2.0\PromotionEngine.AssemblyInfoInputs.cache
+C:\Users\sduraisa\Documents\Personal\final\PromotionEngine\PromotionEngine\obj\Debug\netstandard2.0\PromotionEngine.AssemblyInfo.cs
+C:\Users\sduraisa\Documents\Personal\final\PromotionEngine\PromotionEngine\bin\Debug\netstandard2.0\PromotionEngine.deps.json
+C:\Users\sduraisa\Documents\Personal\final\PromotionEngine\PromotionEngine\bin\Debug\netstandard2.0\PromotionEngine.dll
+C:\Users\sduraisa\Documents\Personal\final\PromotionEngine\PromotionEngine\bin\Debug\netstandard2.0\PromotionEngine.pdb
+C:\Users\sduraisa\Documents\Personal\final\PromotionEngine\PromotionEngine\obj\Debug\netstandard2.0\PromotionEngine.dll
+C:\Users\sduraisa\Documents\Personal\final\PromotionEngine\PromotionEngine\obj\Debug\netstandard2.0\PromotionEngine.pdb

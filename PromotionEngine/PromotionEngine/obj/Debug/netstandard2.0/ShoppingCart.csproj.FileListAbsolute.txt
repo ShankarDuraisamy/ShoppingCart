@@ -1,0 +1,9 @@
+C:\Users\sduraisa\Documents\Personal\final\PromotionEngine\PromotionEngine\obj\Debug\netstandard2.0\ShoppingCart.csprojAssemblyReference.cache
+C:\Users\sduraisa\Documents\Personal\final\PromotionEngine\PromotionEngine\obj\Debug\netstandard2.0\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\sduraisa\Documents\Personal\final\PromotionEngine\PromotionEngine\obj\Debug\netstandard2.0\ShoppingCart.AssemblyInfoInputs.cache
+C:\Users\sduraisa\Documents\Personal\final\PromotionEngine\PromotionEngine\obj\Debug\netstandard2.0\ShoppingCart.AssemblyInfo.cs
+C:\Users\sduraisa\Documents\Personal\final\PromotionEngine\PromotionEngine\bin\Debug\netstandard2.0\ShoppingCart.deps.json
+C:\Users\sduraisa\Documents\Personal\final\PromotionEngine\PromotionEngine\bin\Debug\netstandard2.0\ShoppingCart.dll
+C:\Users\sduraisa\Documents\Personal\final\PromotionEngine\PromotionEngine\bin\Debug\netstandard2.0\ShoppingCart.pdb
+C:\Users\sduraisa\Documents\Personal\final\PromotionEngine\PromotionEngine\obj\Debug\netstandard2.0\ShoppingCart.dll
+C:\Users\sduraisa\Documents\Personal\final\PromotionEngine\PromotionEngine\obj\Debug\netstandard2.0\ShoppingCart.pdb
